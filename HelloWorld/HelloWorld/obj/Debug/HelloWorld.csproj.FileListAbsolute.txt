@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive\Dokumenty\programs\c#\Hello World\Hello-C-sharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\User\OneDrive\Dokumenty\programs\c#\Hello World\Hello-C-sharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\User\OneDrive\Dokumenty\programs\c#\Hello World\Hello-C-sharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\User\OneDrive\Dokumenty\programs\c#\Hello World\Hello-C-sharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive\Dokumenty\programs\c#\Hello World\Hello-C-sharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\User\OneDrive\Dokumenty\programs\c#\Hello World\Hello-C-sharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
